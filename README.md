@@ -18,5 +18,7 @@ myVar now has the value 15.
 
 
 Change the 0 so that sum will equal 20.
+You should use the + operator.
+
 
 const sum = 0 + 20;
