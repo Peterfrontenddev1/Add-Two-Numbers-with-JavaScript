@@ -16,4 +16,5 @@ const myVar = 5 + 10;
 
 myVar now has the value 15.
 
+
 Change the 0 so that sum will equal 20.
