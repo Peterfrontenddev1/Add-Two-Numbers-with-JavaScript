@@ -14,6 +14,7 @@ Example:
 
 const myVar = 5 + 10;
 
+
 myVar now has the value 15.
 
 
